@@ -1,20 +1,20 @@
 # <center>Harshavardhan Kalagarla</center>
 
-![WhatsApp%20Image%202023-09-02%20at%2021.49.34.jpeg](attachment:WhatsApp%20Image%202023-09-02%20at%2021.49.34.jpeg)
+![Headshot](https://github.com/Harsha4049/UMBC-DATA606-FALL2023-THURSDAY/blob/main/photo.jpeg)
 
 <center>217 Garden Ridge Road, Catonsville 21228</center>
 
 <center>EmailID:harshakalagarla4049@gmail.com Phoneno:+1-443-813-6004</center>
 
 >**OBJECTIVE:**
-  <B>___________________________________________________________________________________________________________________</B>
+  <B>_______________________________________________________________________________________________________</B>
 
 To pursue a challenging career with dedication and provide my efficiency to the fullest in a professional
 organization environment wherever I serve my duties that will discover the potential in time.
 
 >**EDUCATION:**
 
-<B>_________________________________________________________________________________________________________________________</B>
+<B>___________________________________________________________________________________________________________</B>
 
 * Masters in Data Science 2022 - Present
   <br>University of Maryland Baltimore County <br> GPA: 3.2/4.0
@@ -30,7 +30,7 @@ organization environment wherever I serve my duties that will discover the poten
 
 >**TECHNICAL PROFICIENCY:**
 
-<B>_________________________________________________________________________________________________________________________</B>
+<B>____________________________________________________________________________________________________</B>
 
 * Data Visualization and Data Analytics
 * Python , SQL, C , C++ , JAVA
@@ -40,7 +40,7 @@ organization environment wherever I serve my duties that will discover the poten
 
 >**PROJECTS:**
 
-<B>_______________________________________________________________________________________________________________________</B>
+<B>__________________________________________________________________________________________________</B>
 
 
 <B>Predicting Baltimore Employees Salary:</B>
@@ -59,7 +59,7 @@ organization environment wherever I serve my duties that will discover the poten
 
 >**AWARDS AND ACTIVITIES:**
 
-<B>________________________________________________________________________________________________________________________</B>
+<B>________________________________________________________________________________________________</B>
 
 * Participated in Cloud Computing session at Bharth University
 * Got trained in AI and Python from IBM
